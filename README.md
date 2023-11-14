@@ -1,9 +1,9 @@
 # bank-accounts-management
-Basic bank accounts management app with Qt, C++ and SQLite.
+Basic bank accounts management app with Qt5, C++ and SQLite3.
 
 # task description
 This code has been written since at least two years now in a context of school evaluation.
-The task was to Create a Qt project in C++ that would permit to manage bank accounts.
+The task was to create a Qt5 project in C++ that would permit to manage bank accounts.
 1. Constrainst
 · Each account is defined by a code, a balance and a creation date.
 · A current account is an account that has in addition an overdraft.
@@ -22,10 +22,10 @@ Withdraw an amount from an account, Make a transfer from one account to another,
 These operations require authentication.
 
 # before run program
-Ensure to have Qt, SQLite and g++ installed. 
+Ensure to have Qt5, SQLite3 and g++ installed. 
 
 # value
-This code can be helpful to appreciate basic Qt and C++ using in a common use case, with sql database management.
+This code can be helpful to appreciate basic Qt5, SQLite3 and C++ using in a common use case, with sql database management.
 Enjoy it.
 
 # for more details
